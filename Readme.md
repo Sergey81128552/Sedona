@@ -1,4 +1,4 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «Седона»
 
 * Студент: [Емельянов Сергей](https://up.htmlacademy.ru/profession/frontender-lite/4).
 * Наставник: `Неизвестно`.
