@@ -1,8 +1,8 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
+* Студент: [Емельянов Сергей](https://up.htmlacademy.ru/profession/frontender-lite/4).
 * Наставник: `Неизвестно`.
-* Сайт: [Мой проект "Седона"](https://sergey81128552.github.io/Sedona/)
+* Сайт: [Мой проект "Седона"](https://sergey81128552.github.io/Sedona/).
 
 ---
 
